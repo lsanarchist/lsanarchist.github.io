@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Daniil Zhylenko Cybersecurity Résumé
+title: 
 ---
 
 # Daniil Zhylenko
 
-**Email:** yourname@example.com  
+**Email:** 
 **LinkedIn:** [linkedin.com/in/daniil-zhylenko](https://www.linkedin.com/in/daniil-zhylenko-6a7534268/)
 
 ---
@@ -16,7 +16,7 @@ Aspiring cybersecurity specialist with foundational knowledge in network securit
 ## Education
 
 ### ** Technical University of Košice**  
-**  Bachelor’s in Cybersecurity** | 2022 - 2025  
+**  Bachelor’s in Cybersecurity** | 2022 - 2025 | in progress...   
 
 ## Certifications
 
