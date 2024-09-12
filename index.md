@@ -15,8 +15,8 @@ Aspiring cybersecurity specialist with foundational knowledge in network securit
 
 ## Education
 
-### ** Technical University of Košice**  
-**  Bachelor’s in Cybersecurity** | 2022 - 2025 | in progress...   
+###  **Technical University of Košice**  
+  **Bachelor’s in Cybersecurity** | 2022 - 2025 | in progress...   
 
 ## Certifications
 
