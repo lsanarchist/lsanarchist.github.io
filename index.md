@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Hello world!
+title: Daniil Zhylenko
 ---
 
-# Daniil Zhylenko
 
-**Email:  ** 
 **LinkedIn:** [linkedin.com/in/daniil-zhylenko](https://www.linkedin.com/in/daniil-zhylenko-6a7534268/)
 
 ---
