@@ -33,4 +33,3 @@ Aspiring cybersecurity specialist with foundational knowledge in network securit
 
 ---
 
-**References available upon request.**
