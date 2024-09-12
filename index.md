@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Hello world!
 ---
 
 # Daniil Zhylenko
