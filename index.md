@@ -11,7 +11,7 @@ title: Daniil Zhylenko
 ---
 
 ## whoami
-Aspiring cybersecurity specialist with foundational knowledge in network security, malware analysis, and penetration testing. Currently studying at the Technical University of Košice.
+Whitehat with foundational knowledge in network security, malware analysis, and penetration testing. Currently studying at the Technical University of Košice.
 
 ## Education
 
