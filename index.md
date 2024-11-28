@@ -14,8 +14,7 @@ title: Daniil Zhylenko
 ---
 
 ## whoami
-Whitehat with foundational knowledge in network security, malware analysis, and penetration testing. Currently studying at the Technical University of Košice.
-
+I am a cybersecurity student with knowledge in network security, malware analysis, and penetration testing. I am currently studying at the Technical University of Košice.
 ## Education
 
 ###  **Technical University of Košice**  
@@ -31,7 +30,7 @@ Whitehat with foundational knowledge in network security, malware analysis, and 
 ## Skills
 
 - **Technical Skills:** Information Security, Ethical Hacking, Penetration Testing, Malware Analysis  
-- **Tools:** Network Monitoring Tools, Log Analysis, Linux, SQL, Python, C
+- **Tools:** Network Monitoring Tools, Log Analysis, Linux, SQL, PostgreSQL, Python, C
 
 ---
 
