@@ -21,6 +21,7 @@ I am a cybersecurity student with knowledge in network security, malware analysi
   **Bachelor’s in Cybersecurity** | 2022 - 2025 | in progress...   
 
 ## Certifications
+- **[EY Bootcamp](https://github.com/lsanarchist/lsanarchist.github.io/blob/main/Daniil%20Zhylenko%20%20EY%20cert.pdf)** | EY | Dec 2024  
 - **[CCNA: Security](https://www.credly.com/badges/a94c7d02-7228-475b-8f6c-a033f7f28a05)** | Cisco | Dec 2024  
 - **[CCNA: Introduction to Networks](https://www.credly.com/badges/0848d246-b0aa-43a9-a59f-a80cabf6ebeb/linked_in_profile)** | Cisco | May 2024  
 - **[CyberOps Associate](https://www.credly.com/badges/f8b41b8e-8069-4d29-8592-0a327a1c71ad/linked_in_profile)** | Cisco | Dec 2023  
